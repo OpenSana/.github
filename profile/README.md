@@ -18,7 +18,7 @@ We believe that access to health data should not be limited by geography or reso
 
 ## 📈 Roadmap
 
-See [ROADMAP.md](github.com/opensana/ROADMAP.md)
+See [ROADMAP.md](ROADMAP.md)
 
 ## 💬 Contact
 
