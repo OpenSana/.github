@@ -23,4 +23,4 @@ See [ROADMAP.md](ROADMAP.md)
 ## 💬 Contact
 
 team@opensana.org  
-GitHub: [![github.com/opensana](https://github.com/opensana)](https://github.com/opensana)
+GitHub: https://github.com/opensana/
